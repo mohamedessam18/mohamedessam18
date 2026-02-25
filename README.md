@@ -1,26 +1,51 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohamed+Essam;Flutter+Developer;Cybersecurity+Student+%7C+Red+Team" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Mohamed+Essam;Flutter+Developer;Cybersecurity+Student+%7C+Red+Team;Code.+Break.+Secure.+Repeat." />
 </p>
 
-<h1 align="center">Mohamed Essam</h1>
-
 <p align="center">
-💻 Flutter Developer &nbsp; | &nbsp;
-🛡️ Cybersecurity Student &nbsp; | &nbsp;
-🚀 Problem Solver
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="520" />
+</p>
+
+<h2 align="center">⚡ Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=cplusplus&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=00FF9C"/>
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=00FF9C"/>
 </p>
 
 ---
 
-## 🧠 About Me
-<table>
-<tr>
-<td>
+<h2 align="center">🚀 Projects</h2>
 
-🎓 Computer Science student  
-📱 Flutter & Mobile Development  
-🛡️ Cybersecurity & Red Teaming  
-🧠 Clean architecture & secure systems  
+<table align="center">
+<tr>
+<td width="50%">
+
+### 📱 Expense Tracker  
+A Flutter app for tracking daily expenses with clean UI & CRUD.
+
+</td>
+<td width="50%">
+
+### 🔐 Secure Chat (Concept)  
+Messaging concept focused on security and privacy.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📋 Cyber Task Manager  
+Task manager with a security-first mindset.
+
+</td>
+<td width="50%">
+
+### 🎯 Currently  
+Flutter architecture · Red teaming basics · Portfolio projects
 
 </td>
 </tr>
@@ -28,75 +53,23 @@
 
 ---
 
-## 🛠️ Tech Stack
-
+<h2 align="center">📊 GitHub</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p>
----
-
-## 🚀 Projects
-<table>
-<tr>
-<th>Project</th>
-<th>Description</th>
-</tr>
-<tr>
-<td>📱 Expense Tracker</td>
-<td>Flutter app for managing daily expenses</td>
-</tr>
-<tr>
-<td>🔐 Secure Chat</td>
-<td>Security-focused messaging concept</td>
-</tr>
-<tr>
-<td>📋 Cyber Task Manager</td>
-<td>Task manager with security mindset</td>
-</tr>
-</table>
-
----
-
-## 📈 Currently Working On
-<table>
-<tr>
-<td>
-
-- Advanced Flutter architecture  
-- Red Team fundamentals  
-- Portfolio-ready projects  
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=mohamedessam18&show_icons=true&theme=tokyonight&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedessam18&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedessam18&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
 
-## 🌐 Connect
 <p align="center">
   <a href="https://github.com/mohamedessam18">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Follow-000?style=for-the-badge&logo=github&logoColor=00FF9C" />
   </a>
-  <a href="mailtomohvmedesam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail" />
+  <a href="mailto:mohvmedesam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=00FF9C" />
   </a>
 </p>
 
----
-
 <p align="center">
-<b>⚡ Code. Break. Secure. Repeat.</b>
+  <b>🟢 Available for freelance & collaboration</b>
 </p>
