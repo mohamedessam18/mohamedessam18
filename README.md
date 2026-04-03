@@ -63,16 +63,29 @@ A productivity-focused idea shaped by a security-first mindset and structured ta
 
 ---
 
-## GitHub Stats
+## GitHub Snapshot
+
+<p align="center">
+  <a href="https://github.com/mohamedessam18?tab=followers">
+    <img src="https://img.shields.io/github/followers/mohamedessam18?style=for-the-badge&color=1DD75B&labelColor=111111" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/mohamedessam18?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View%20Projects-111111?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+  <a href="https://github.com/mohamedessam18">
+    <img src="https://img.shields.io/badge/Profile-Explore-0f172a?style=for-the-badge&logo=github&logoColor=1DD75B" alt="Profile" />
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedessam18&show_icons=true&theme=dark&hide_border=true&title_color=1DD75B&icon_color=1DD75B&text_color=E6EDF3&bg_color=00000000" height="165" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=mohamedessam18&theme=dark&hide_border=true&ring=1DD75B&fire=1DD75B&currStreakLabel=1DD75B&background=00000000" height="165" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=mohamedessam18&theme=dark&hide_border=true&ring=1DD75B&fire=1DD75B&currStreakLabel=1DD75B&background=00000000" height="170" alt="GitHub streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedessam18&layout=compact&theme=dark&hide_border=true&title_color=1DD75B&text_color=E6EDF3&bg_color=00000000" height="165" alt="Top languages" />
-</div>
+### Featured Repositories
+
+- [portfolio](https://github.com/mohamedessam18/portfolio) - Personal portfolio work and UI-focused experiments
+- [quran-ayah-experience](https://github.com/mohamedessam18/quran-ayah-experience) - A focused project around Quran ayah presentation and experience
+- [mohamedessam18.github.io](https://github.com/mohamedessam18/mohamedessam18.github.io) - GitHub Pages space for public-facing web content
 
 ---
 
