@@ -1,75 +1,84 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Mohamed+Essam;Flutter+Developer;Cybersecurity+Student+%7C+Red+Team;Code.+Break.+Secure.+Repeat." />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="520" />
-</p>
+# Mohamed Essam
 
-<h2 align="center">⚡ Stack</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=cplusplus&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=00FF9C"/>
-  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=00FF9C"/>
-</p>
+### Flutter Developer | Cybersecurity Student | Red Team Learner
 
----
+Building clean mobile experiences while growing a strong foundation in security, systems, and offensive tooling.
 
-<h2 align="center">🚀 Projects</h2>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 📱 Expense Tracker  
-A Flutter app for tracking daily expenses with clean UI & CRUD.
-
-</td>
-<td width="50%">
-
-### 🔐 Secure Chat (Concept)  
-Messaging concept focused on security and privacy.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📋 Cyber Task Manager  
-Task manager with a security-first mindset.
-
-</td>
-<td width="50%">
-
-### 🎯 Currently  
-Flutter architecture · Red teaming basics · Portfolio projects
-
-</td>
-</tr>
-</table>
-
----
-
-<h2 align="center">📊 GitHub</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedessam18&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedessam18&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
-
-<p align="center">
+<p>
   <a href="https://github.com/mohamedessam18">
-    <img src="https://img.shields.io/badge/Follow-000?style=for-the-badge&logo=github&logoColor=00FF9C" />
+    <img src="https://img.shields.io/badge/GitHub-mohamedessam18-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:mohvmedesam@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=00FF9C" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<p align="center">
-  <b>🟢 Available for freelance & collaboration</b>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=1DD75B&center=true&vCenter=true&width=800&lines=Mobile+apps+with+clean+architecture;Learning+cybersecurity+with+a+red+team+mindset;Always+building.+Always+improving." alt="Typing animation" />
+
+</div>
+
+---
+
+## About Me
+
+I am a developer focused on Flutter and Dart, with a strong interest in building apps that are clean, practical, and easy to maintain. Alongside mobile development, I am actively studying cybersecurity and expanding my hands-on knowledge in Linux, networking, and red team fundamentals.
+
+I enjoy working on projects that sharpen both engineering and problem-solving skills, especially when they combine product thinking with technical depth.
+
+---
+
+## Core Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
+---
+
+## What I'm Working On
+
+- Building Flutter projects with better architecture and cleaner UI structure
+- Strengthening problem solving and implementation skills through real projects
+- Learning cybersecurity concepts with a focus on red team fundamentals
+- Growing practical experience with Linux and security-oriented workflows
+
+---
+
+## Featured Project Areas
+
+### Expense Tracker
+A Flutter application for tracking daily expenses with a clean interface and CRUD-based workflow.
+
+### Secure Chat Concept
+A messaging concept centered around privacy, secure thinking, and better communication design.
+
+### Cyber Task Manager
+A productivity-focused idea shaped by a security-first mindset and structured task flow.
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedessam18&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedessam18&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+</div>
+
+---
+
+## Connect With Me
+
+- GitHub: [github.com/mohamedessam18](https://github.com/mohamedessam18)
+- Email: [mohvmedesam@gmail.com](mailto:mohvmedesam@gmail.com)
+
+---
+
+<div align="center">
+  <strong>Open to freelance work, collaboration, and interesting build opportunities.</strong>
+</div>
