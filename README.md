@@ -66,8 +66,12 @@ A productivity-focused idea shaped by a security-first mindset and structured ta
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedessam18&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohamedessam18&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedessam18&show_icons=true&theme=dark&hide_border=true&title_color=1DD75B&icon_color=1DD75B&text_color=E6EDF3&bg_color=00000000" height="165" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=mohamedessam18&theme=dark&hide_border=true&ring=1DD75B&fire=1DD75B&currStreakLabel=1DD75B&background=00000000" height="165" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedessam18&layout=compact&theme=dark&hide_border=true&title_color=1DD75B&text_color=E6EDF3&bg_color=00000000" height="165" alt="Top languages" />
 </div>
 
 ---
